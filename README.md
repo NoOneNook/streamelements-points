@@ -1,11 +1,11 @@
-# streamelements-csv
+# streamelements-Points
 
 # How to export your points from StreamElements.
 This is an external script, it was made with the intention of making it easier for people to export their points from StreamElements.com
 
 ## Steps
 
-**1)** Download the streamelements-points.zip from the [Windows Here](http://storage1.arkanett.no/download/streamelements-points-windows64.zip)  
+**1)** Download the streamelements-points.zip for [Windows Here](http://storage1.arkanett.no/download/streamelements-points-windows64.zip)  
 **2)** Open and Configure the ```config.toml``` file. (Preferably with Notepad++).  
 **3)** Run the respective ```.cmd``` file.  
 
