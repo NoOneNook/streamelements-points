@@ -5,7 +5,7 @@ This is an external script, it was made with the intention of making it easier f
 
 ## Steps
 
-**1)** Download the streamelements-points.zip for [Windows Here](http://storage1.arkanett.no/download/streamelements-points-windows64.zip)  
+**1)** Download the streamelements-points.zip for [Here](https://github.com/NoOneNook/streamelements-points/releases)  
 **2)** Open and Configure the ```config.toml``` file. (Preferably with Notepad++).  
 **3)** Run the respective ```.cmd``` file.  
 
