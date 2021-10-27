@@ -5,7 +5,7 @@ This is an external script, it was made with the intention of making it easier f
 
 ## Steps
 
-**1)** Download the streamelements-csv.zip from the [releases page](https://github.com/Slikrick/streamelements-csv/releases)  
+**1)** Download the streamelements-points.zip from the [Windows Here](http://storage1.arkanett.no/download/streamelements-points-windows64.zip)  
 **2)** Open and Configure the ```config.toml``` file. (Preferably with Notepad++).  
 **3)** Run the respective ```.cmd``` file.  
 
